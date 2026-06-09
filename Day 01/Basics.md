@@ -2,7 +2,7 @@
 
 ## What is Cloud ?
 
-In simpler terms, imagine the cloud as a vast, virtual space where you can store files, run software, and access various services over the internet. 
+In simpler terms, imagine the cloud as a vast, virtual space where you can store files, run software, and access various services over the internet.
 
 It's like having a powerful computer somewhere out there on the web that you can use for tasks without needing to own or physically manage the hardware. This allows users to access data and applications from anywhere with an internet connection.
 
@@ -26,13 +26,13 @@ In essence, cloud computing can involve both third-party providers (public cloud
 
 **What It's Like:** Picture having your own personal, private computer space. It's like a digital clubhouse where only you and your team have access. Others can't just drop in.
 
-**Example:** A company using its own server for all its digital needs.
+**Example:** A company using its own server for all its digital needs. 
 
 ## Hybrid Cloud:
 
 **Who Uses It:** A mix of everyone, depending on needs.
 
-**What It's Like:** It's like having your private computer space, but sometimes you use the shared internet space too. 
+**What It's Like:** It's like having your private computer space, but sometimes you use the shared internet space too.
 
 **Example:** A business storing sensitive data in its private space but using the public cloud for extra storage or specific tasks.
 
@@ -43,4 +43,3 @@ In essence, cloud computing can involve both third-party providers (public cloud
 **Private Cloud:** Your own exclusive digital space.
 
 **Hybrid Cloud:** Using both your private space and the shared online space when needed.
-
